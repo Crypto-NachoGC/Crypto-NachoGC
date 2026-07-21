@@ -64,12 +64,9 @@ I specialize in **Full-Stack Web/Mobile Development**, **Process Automation**, a
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crypto-NachoGC&show_icons=true&theme=radical" alt="Crypto-NachoGC GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-NachoGC&layout=compact&theme=radical" alt="Most Used Languages" width="48%" />
-</p>
+![GitHub Activity Graph](https://ghchart.rshah.org/40c463/Crypto-NachoGC)
 
 ---
 
