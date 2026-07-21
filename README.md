@@ -46,6 +46,24 @@ I specialize in **Full-Stack Web/Mobile Development**, **Process Automation**, a
 
 ---
 
+### 🚀 Featured Project *(In Active Development / NDA Protected)*
+
+**Event-Driven & Distributed Architecture**  
+*Building an enterprise-grade scalable platform tailored for high-volume transactions.*
+
+* **Distributed Microservices Architecture:** Engineered 9+ decoupled microservices using **Express.js**, **TypeScript**, and **PostgreSQL** with a strict *Database-per-Service* pattern.
+* **Event-Driven Messaging & Sagas:** Asynchronous communication powered by **Apache Kafka** implementing choreography sagas, transactional outbox patterns, and idempotent consumers for strict state consistency.
+* **Full-Stack & Cross-Platform:** 
+  * Modern Web built with **Next.js 15 (App Router)**, **React 19**, and **Tailwind CSS**.
+  * Mobile App built with **React Native (Expo SDK)** featuring cross-platform state management (**Zustand**).
+* **Advanced Technical Implementations:**
+  * Double-entry accounting engine for automated ledger entries.
+  * Electronic invoicing integration (XAdES XML signing) for tax compliance.
+  * Real-time inventory tracking, multi-tenant role-based authorization guards, and dynamic subscription tier limits.
+  * Monorepo setup using **pnpm workspaces** and containerized development via **Docker Compose**.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="left">
