@@ -64,9 +64,9 @@ I specialize in **Full-Stack Web/Mobile Development**, **Process Automation**, a
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Recent Activity
 
-![GitHub Activity Graph](https://ghchart.rshah.org/40c463/Crypto-NachoGC)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Crypto-NachoGC&theme=github-dark&hide_border=true&area=true)
 
 ---
 
