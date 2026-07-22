@@ -5,7 +5,7 @@ I specialize in **Full-Stack Web/Mobile Development**, **Process Automation**, a
 
 ---
 
-### 👨‍💻 About Me
+> ### 👨‍💻 About Me
 
 * 🔭 Currently working at **Pfizer** as an *Inventory & Continuous Improvement Analyst*, building full-stack automation tools and processing large-scale data.
 * 🎓 Pursuing an **M.Sc. in Computer Science** (Software Architecture & Design).
@@ -16,45 +16,15 @@ I specialize in **Full-Stack Web/Mobile Development**, **Process Automation**, a
 
 ---
 
-### 🛠️ Tech Stack & Tools
+> ### 🚀 Featured Project *(In Active Development / NDA Protected)*
 
-**Languages:**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
-
-**Frontend & Mobile:**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-
-**Backend, ORM & Databases:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-
-**DevOps, Automation & Analytics:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
-
----
-
-### 🚀 Featured Project *(In Active Development / NDA Protected)*
-
-**Event-Driven & Distributed Architecture**  
-*Building an enterprise-grade scalable platform tailored for high-volume transactions.*
+**Event-Driven Multi-Vendor E-Commerce Engine & Distributed Architecture**  
+*Building an enterprise-grade scalable e-commerce marketplace platform tailored for high-volume transactions.*
 
 * **Distributed Microservices Architecture:** Engineered 9+ decoupled microservices using **Express.js**, **TypeScript**, and **PostgreSQL** with a strict *Database-per-Service* pattern.
 * **Event-Driven Messaging & Sagas:** Asynchronous communication powered by **Apache Kafka** implementing choreography sagas, transactional outbox patterns, and idempotent consumers for strict state consistency.
 * **Full-Stack & Cross-Platform:** 
-  * Modern Web built with **Next.js 15 (App Router)**, **React 19**, and **Tailwind CSS**.
+  * Modern Web Storefront & Vendor Dashboard built with **Next.js 15 (App Router)**, **React 19**, and **Tailwind CSS**.
   * Mobile App built with **React Native (Expo SDK)** featuring cross-platform state management (**Zustand**).
 * **Advanced Technical Implementations:**
   * Double-entry accounting engine for automated ledger entries.
@@ -63,13 +33,22 @@ I specialize in **Full-Stack Web/Mobile Development**, **Process Automation**, a
   * Monorepo setup using **pnpm workspaces** and containerized development via **Docker Compose**.
 
 ---
+### 🛠️ Tech Stack & Tools
 
-### 📊 Recent Activity
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py&theme=dark" /></a> |
+| **Frontend & Mobile** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" /></a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" width="48" height="48" alt="Expo" style="background-color: #000020; padding: 8px; border-radius: 10px;" /> |
+| **Backend & Messaging** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,kafka,prisma&theme=dark" /></a> |
+| **Databases & DevOps** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,githubactions&theme=dark" /></a> |
+---
+
+> ### 📊 GitHub Activity & Contributions
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Crypto-NachoGC&theme=github-dark&hide_border=true&area=true)
 
 ---
 
-### 🌐 Connect with Me
+> ### 🌐 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-xnacho2905%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:xnacho2905@gmail.com)
+[![Email](https://img.shields.io/badge/Email-xnacho2905%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xnacho2905@gmail.com)
